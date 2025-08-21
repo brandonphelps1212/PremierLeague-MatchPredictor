@@ -1,6 +1,6 @@
 
 """
-predict.py — Train & evaluate a Premier League match outcome model compatible with the tutorial CSV.
+predict.py — Train & evaluate a Premier League match outcome model compatible with the CSV.
 """
 import argparse
 import pandas as pd
